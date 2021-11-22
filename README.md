@@ -29,9 +29,9 @@ content = """
 </head>
 <body>
 <h1>Welcome</h1>
-<h2>Name:Ishwarya.V</h2>
-<h3>Reference no:21002894</h3>
-<h4>Department: AI and ML</h4>
+<h2>Name:Shrruthilaya.G</h2>
+<h3>Reference no:21002893</h3>
+<h4>Department: AI and DS</h4>
 </body>
 </html>
 """
@@ -48,6 +48,6 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-![GitHub Logo](w_output.png)
+![GitHub Logo](Output.png)
 ## RESULT:
 the webserver has been created and tested successfully
